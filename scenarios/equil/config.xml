@@ -52,7 +52,7 @@
 			<param name="closingTime"     value="18:00:00" />
 		</parameterset>
 	</module>
-	
+
 	<module name="strategy">
 		<param name="maxAgentPlanMemorySize" value="5" /> <!-- 0 means unlimited -->
 
